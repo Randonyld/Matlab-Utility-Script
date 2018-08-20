@@ -1,2 +1,2 @@
 # Matlab-Utility-Script
-Some utility sripts for Matlab
+Some utility sripts for Matlab.
